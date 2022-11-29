@@ -8,4 +8,4 @@ DevForum: https://devforum.roblox.com/t/fastnet-a-very-fast-low-latency-low-band
 
 Roblox Library: https://www.roblox.com/library/10989117368/FastNet-Networking-Module
 
-Author: KhietslyDev_Alt (Roblox-User, Created FastNet)
+Author: Eternity_Devs (Roblox-User, Created FastNet)
