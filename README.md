@@ -1,7 +1,7 @@
 # FastNet
 Advanced and high-quality networking system module
 
-This Network module created with shorten, simple, easy-uses, basic-advanced, high stability, high-performance, low-bandwidth usages, low-latency, powerfull tool and very-fast for handling multiple remotes.
+This Network module created with shorten, simple, easy-uses, basic-advanced, high stability, high-performance, low-bandwidth usages, low-latency, powerfull tool, secure and very-fast for handling multiple remotes. This module bit messy code to read.
 
 This FastNet Network module is OPEN-SOURCED (*License under MIT License)
 
